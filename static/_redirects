@@ -2,7 +2,7 @@
 /docs   /     200
 
 # Portal Onboarding guide Redirects
-/docs/portal-onboarding-guide/*      https://docs-portal-onboarding-guide.netlify.app/docs/portal-onboarding-guide/:splat         200
+/docs/portal-onboarding-guide/*      https://rackspace-test-1.readme.io/docs/customer-portal-onboarding-guide/:splat         200
 
 # Customer Service
 /docs/customer-service/v1/*      https://docs-customer-service.netlify.app/docs/customer-service/v1/:splat         200
